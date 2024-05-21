@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+
+if name == "xyz":
+    print("you can't take the admission.")
+else:
+    print("you can take the admission.")
+    
