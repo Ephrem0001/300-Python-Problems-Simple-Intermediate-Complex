@@ -4,3 +4,4 @@ c = int(input("Enter c number"))
 
 result = (a+b+c)*(a/b)*(2*a+3*b)
 print("Result is = "+str(result))
+
