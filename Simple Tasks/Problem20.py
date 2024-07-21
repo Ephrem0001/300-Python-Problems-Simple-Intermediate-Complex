@@ -3,3 +3,4 @@ for i in range(5):
     ar.append(int(input("enter a number: ")))
 
 print("Maximum number from the list: " + str(max(ar)))
+
