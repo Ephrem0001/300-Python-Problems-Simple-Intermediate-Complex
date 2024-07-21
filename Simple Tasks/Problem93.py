@@ -8,3 +8,4 @@ t = float(input("Enter time in s"))
 change_velocity = vf-vi
 acc = change_velocity / t
 print("Acceleration of an obejct = "+str(acc)+"m/s2")
+
